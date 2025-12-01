@@ -18,8 +18,8 @@ This story comes from Michelle Dombrowski, who grew up in Milwaukee, Wisconsin, 
 {% include figure.html
   class="right"
   width="40%"
-  caption="What a nice view"
-  image-path="bbq.png"
+  caption="Food, Fun, and Summer"
+  image-path="summer-fun-times.png"
 %}
 
 
