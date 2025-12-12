@@ -1,10 +1,10 @@
 ---
-title: My First BBQ
-author: Fred Gibbs
-location: Durham, NC
-thumbnail: bbq.png
-summary: My first BBQ was hosted by Chef Boyardee and everyone was very happy. Yummy!
-date: 2025-08-01
+title: My Food Story
+author: Ethyn Hosteen
+location: Thoreau, NM
+thumbnail: my-food-story.png
+summary: I spent Thanksgiving with my dad's side of the family and had the best tasting food. Mmmmm!
+date: 2025-011-27
 layout: base
 tags:
   - BBQ
