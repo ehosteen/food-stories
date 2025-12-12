@@ -1,5 +1,5 @@
 ---
-title: My Food Story
+title: My Thanksgiving
 author: Ethyn Hosteen
 location: Thoreau, NM
 thumbnail: "Thanksgiving.png"
