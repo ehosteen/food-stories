@@ -19,7 +19,7 @@ Every year my family heads over to my dad’s grandma’s place for Thanksgiving
   class="right"
   width="40%"
   caption="What a nice view"
-  image-path="bbq.png"
+  image-path="Navajo-Thankgiving.png"
 %}
 
 
