@@ -7,13 +7,13 @@ summary: I spent Thanksgiving with my dad's side of the family and had the best 
 date: 2025-011-27
 layout: base
 tags:
-  - BBQ
+  - Thanksgiving
   - cookout
-  - community
+  - family
 ---
 
-# Generic Story Title
-This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” usually meant something you did on a gas grill in the backyard. She moved to North Carolina for school, and that’s where she got invited to her first real Southern barbecue. 
+# Thanksgiving at My Great Grandma’s
+Every year my family heads over to my dad’s grandma’s place for Thanksgiving. It’s tradition that before we eat, she gives the prayer in Navajo. That moment always sets the tone for the whole day — it’s not just about the food, it’s about family, gratitude, and carrying on something bigger than us. 
 
 {% include figure.html
   class="right"
@@ -23,21 +23,27 @@ This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” u
 %}
 
 
-## Something more specific
-She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
+## Gathering the Family
+This year I had just come back home the day before Thanksgiving. I slept in late, finishing up assignments since the semester was almost over, and then rushed to get ready while my mom, dad, and two brothers were already moving around. Luckily, my great grandma doesn’t live too far, so we made it in time.
+When I walked in, I got to see cousins, uncles, aunties, and grandma. Not everyone made it this year, but the ones who did made it special. They asked how I was doing in college, told me how proud they were that I’m working on my BBA so young, and teased me about whether I’ve gotten a girlfriend yet. I laughed and told them I’m focused on surviving on my own, paying rent, and keeping up with classes.
 
+### The Prayer
+By the time we finished catching up, the food was ready. But before anyone touched a plate, we all gathered together and went quiet. My great grandma stood up and spoke in Navajo to the older family members. Later, my mom explained she was saying how proud she was of everyone, how thankful she was for those who came, and even gave thanks for those who couldn’t make it. Then she gave her prayer — a blessing for protection, good luck, and safety.
+
+#### The Feast
+After that, we finally dug in. Turkey, enchiladas, frybread, and yams (my favorite). It wasn’t just a meal; it was a reminder of who we are, where we come from, and how we keep each other going.
 
 {% include audio.html
   src="bbq.mp3"
 %}
 
 
-## Analysis: Smoke, Memory, and Belonging
+## Analysis: Language, Family, and Belonging
 
-Listening back to this oral history, what first stands out is how quickly the story moves from describing food to describing a feeling. The narrator begins with sensory detail — the smell of smoke, the chatter under the trees, the look of the smoker — but those descriptions quickly become about *community* rather than cuisine. That shift captures one of the big themes we’ve discussed in class: that food events are not just about eating but about sustaining relationships, passing on traditions, and affirming a sense of belonging. The barbecue becomes a living archive of memory and connection — something that exists through repetition and participation more than through written recipes.
+What stands out in this story is how Thanksgiving isn’t centered on the food itself but on the prayer. The meal is important, sure, but the real meaning comes from my great grandma’s words in Navajo. That moment shifts the holiday from just eating together to honoring family, heritage, and resilience. It shows how food traditions often carry deeper meaning — they’re about identity, memory, and belonging.
+The Navajo language makes the prayer even more powerful. It keeps our culture alive across generations, even when younger family members like me need a translation. That’s what we’ve talked about in class as embodied knowledge — traditions passed down through lived experience, not written down in books. Just like recipes can hold history, prayers carry values of gratitude, protection, and resilience.
+The family conversations before the meal also matter. My relatives reminded me that food gatherings are about more than eating — they’re about encouragement, teasing, and support. They connect my personal journey in college to the larger family story. That’s community in action: food as the backdrop for affirming identity and strengthening bonds.
+Inclusivity shows up in the prayer too. My great grandma gave thanks not only for those who were there but also for those who couldn’t make it. That expands the circle, showing that family ties go beyond physical presence. It’s a kind of cultural hospitality, where everyone is included in the blessing whether or not they’re at the table.
+Finally, the food itself — turkey alongside enchiladas, frybread, and yams — reflects the blending of traditions. It’s both mainstream American Thanksgiving and distinctly Navajo/Southwestern. That mix shows how American foodways are layered, diverse, and constantly adapting.
+In the end, Thanksgiving in my family is about continuity and belonging. The prayer, the language, the food, and the conversations all come together to make the holiday more than just a meal. Oral histories like this capture what written archives miss: the emotions, the blessings, and the everyday practices that make culture feel alive. For me, that single Thanksgiving is a microhistory of American food — rooted in Indigenous heritage, layered with family tradition, and full of meaning that goes way beyond the plate.
 
-The story also reflects the idea of **embodied knowledge and generational transmission**. The pitmaster’s line about learning from his grandfather and letting “the meat tell you when it’s ready” shows that expertise here isn’t formal or codified; it’s experiential and relational. In class, we’ve talked about how food work often relies on skills that are undervalued or unrecorded — the kinds of knowledge passed along by doing, by apprenticeship, by memory. In this sense, barbecue exemplifies what we might call *vernacular expertise*: a tradition maintained through labor, observation, and care, rather than through institutional authority.
-
-When the narrator mentions the regional sauces — vinegar, mustard, tomato — and notes that each corresponds to a different part of the South, the story expands into a meditation on **regional identity and historical layering**. As we’ve read, those variations aren’t just matters of taste but markers of geography, migration, and cultural blending. The acknowledgment of Indigenous and African roots gestures toward the deeper and often erased histories embedded in “Southern” foodways. What feels like a casual backyard gathering is, on another level, the product of centuries of adaptation, exchange, and inequality.
-
-Finally, the closing reflection — that the barbecue was “bigger than one meal” and “about belonging” — aligns with our discussions about **food as cultural memory**. The student recognizes that what endures isn’t just the recipe or the flavor, but the shared experience: the smoke, the labor, the crowd, the sense of continuity. In that moment, the story illustrates how oral histories capture what archives often miss — the *ephemeral* parts of culture that make history feel alive. Through sound, emotion, and storytelling, this single barbecue becomes a microhistory of American food itself: regional yet shared, ordinary yet full of meaning.
