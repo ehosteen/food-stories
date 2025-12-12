@@ -30,10 +30,15 @@ When I walked in, I got to see cousins, uncles, aunties, and grandma. Not everyo
 ### The Prayer
 By the time we finished catching up, the food was ready. But before anyone touched a plate, we all gathered together and went quiet. My great grandma stood up and spoke in Navajo to the older family members. Later, my mom explained the meaning of her words.
 She began by greeting Mother Earth (Nahasdzáán), because you always start there. Then she acknowledged/greeted father sky (Yádiłhił). From there she called on the Diné (holy people), offering her words to be heard through the four sacred mountains: 
-# (Sisnaajini) – Eastern Mountain
-# Mount Taylor (Tsoodzil) – Southern Mountain
-# San Francisco Peaks (Dook’o’oosłííd) – Western Mountain
-# Hesperus Peak (Nahookos) – Northern Mountain. 
+
+**Blanca Peak (Sisnaajini) – Eastern Mountain**
+
+**Mount Taylor (Tsoodzil) – Southern Mountain**
+ 
+**San Francisco Peaks (Dook’o’oosłííd) – Western Mountain**
+ 
+**Hesperus Peak (Nahookos) – Northern Mountain.**
+ 
 She named the directions one by one, then said she was standing in the middle, giving her offering.
 Her prayer wasn’t just for herself, she included the whole family, blessing each person “from the bottom of their feet to the top of their heads.” She gave thanks to the water, the fire, and the holy people, offering gratitude for all that sustains life. Finally, she prayed for her own well-being and protection, and for ours too.
 
